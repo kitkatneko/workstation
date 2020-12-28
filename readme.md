@@ -15,6 +15,7 @@ or use the update-apps.ps1 ...
      git push
 
 or install-apps.ps1 to do what it says it does.
+
      git pull
      # edit packagelist.config to add <package name="mypackage" />
      ./install.ps1
